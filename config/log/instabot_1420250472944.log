@@ -1,0 +1,30 @@
+2020-03-17 23:06:11,822 - instabot version: 0.116.0 (bot) - INFO - Instabot version: 0.116.0 Started
+2020-03-17 23:06:11,823 - instabot version: 0.116.0 (bot) - DEBUG - Bot imported from C:\Users\thecosmos\AppData\Local\Programs\Python\Python38\lib\site-packages\instabot\bot\bot.py
+2020-03-17 23:06:11,827 - instabot version: 0.116.0 (api_login) - DEBUG - Loading cookies
+2020-03-17 23:06:11,827 - instabot version: 0.116.0 (api_login) - DEBUG - Loading uuids
+2020-03-17 23:06:11,827 - instabot version: 0.116.0 (api_login) - INFO - Recovery from D:\thecosmos\projects\instagram-bot/config/__thecosmos_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=59ca74ca-9461-43c2-b3ae-54967a13bfd9
+- uuid=c5093d0c-2be2-4c38-b424-644c55de6653
+- client_session_id=dee94f0c-82df-43f0-9900-b9c3fe5b2317
+- device_id=android-5dd70d6b30907de0
+2020-03-17 23:06:11,829 - instabot version: 0.116.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-03-17 23:06:14,318 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-03-17 23:06:16,382 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-03-17 23:06:16,384 - instabot version: 0.116.0 (api) - INFO - Logged-in successfully as '__thecosmos'!
+2020-03-17 23:06:16,385 - instabot version: 0.116.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\thecosmos\projects\instagram-bot/config/__thecosmos.checkpoint
+2020-03-17 23:06:32,412 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/2376617323/info/ returned response: <Response [200]>
+2020-03-17 23:06:33,563 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: friendships/2376617323/followers/?rank_token=2376617323_c5093d0c-2be2-4c38-b424-644c55de6653 returned response: <Response [200]>
+2020-03-17 23:06:34,570 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: friendships/2376617323/followers/?rank_token=2376617323_c5093d0c-2be2-4c38-b424-644c55de6653&max_id=QVFCa21mTk5jNHF1UlRuYTBXVGtlMGdyU1NZdWh1Z0hUMDk0YUZOd2tZd0dWRDZ2WVFYajNIYzZpTU1jekVHVVctSUxNaXJTakxVWXByajR1Y2haU3JlMw== returned response: <Response [200]>
+2020-03-17 23:06:35,782 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: friendships/2376617323/followers/?rank_token=2376617323_c5093d0c-2be2-4c38-b424-644c55de6653&max_id=QVFDUE9VYWlNb2JIT2pINFp4U2RFLUtkMHpwU0U2REYwTkdzMkYyY19nM292elk2X1JLb1VGcmdfbml3TGZxTWZ2SExBN25faS0zc1JvdkdULXZFRmJOSg== returned response: <Response [200]>
+2020-03-17 23:10:06,386 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow 523 users.
+2020-03-17 23:10:07,371 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/4140092935/info/ returned response: <Response [200]>
+2020-03-17 23:10:07,371 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4140092935 with username julia.ghoulia_.
+2020-03-17 23:10:10,330 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/2376617323/info/ returned response: <Response [200]>
+2020-03-17 23:10:18,257 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: friendships/2376617323/following/?max_id=&ig_sig_key_version=4&rank_token=2376617323_c5093d0c-2be2-4c38-b424-644c55de6653 returned response: <Response [200]>
+2020-03-17 23:10:19,290 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4140092935/ returned response: <Response [200]>
+2020-03-17 23:10:19,291 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4140092935 with username julia.ghoulia_
+2020-03-17 23:10:19,904 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/3487436264/info/ returned response: <Response [200]>
+2020-03-17 23:10:19,904 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 3487436264 with username shashank940.
+2020-03-17 23:10:22,170 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/4850129153/info/ returned response: <Response [200]>
+2020-03-17 23:10:22,170 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4850129153 with username mkmj.mx.

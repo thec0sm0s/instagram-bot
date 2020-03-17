@@ -1,0 +1,82 @@
+2020-03-17 23:14:09,926 - instabot version: 0.116.0 (bot) - INFO - Instabot version: 0.116.0 Started
+2020-03-17 23:14:09,927 - instabot version: 0.116.0 (bot) - DEBUG - Bot imported from C:\Users\thecosmos\AppData\Local\Programs\Python\Python38\lib\site-packages\instabot\bot\bot.py
+2020-03-17 23:14:09,927 - instabot version: 0.116.0 (api_login) - DEBUG - Loading cookies
+2020-03-17 23:14:09,927 - instabot version: 0.116.0 (api_login) - DEBUG - Loading uuids
+2020-03-17 23:14:09,927 - instabot version: 0.116.0 (api_login) - INFO - Recovery from D:\thecosmos\projects\instagram-bot/config/__thecosmos_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=59ca74ca-9461-43c2-b3ae-54967a13bfd9
+- uuid=c5093d0c-2be2-4c38-b424-644c55de6653
+- client_session_id=dee94f0c-82df-43f0-9900-b9c3fe5b2317
+- device_id=android-5dd70d6b30907de0
+2020-03-17 23:14:09,929 - instabot version: 0.116.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-03-17 23:14:12,489 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-03-17 23:14:15,718 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-03-17 23:14:15,720 - instabot version: 0.116.0 (api) - INFO - Logged-in successfully as '__thecosmos'!
+2020-03-17 23:14:15,720 - instabot version: 0.116.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: D:\thecosmos\projects\instagram-bot/config/__thecosmos.checkpoint
+2020-03-17 23:14:19,340 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/2376617323/info/ returned response: <Response [200]>
+2020-03-17 23:14:34,305 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: friendships/2376617323/following/?max_id=&ig_sig_key_version=4&rank_token=2376617323_c5093d0c-2be2-4c38-b424-644c55de6653 returned response: <Response [200]>
+2020-03-17 23:14:34,317 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow 3140 users.
+2020-03-17 23:14:35,011 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/3066637048/info/ returned response: <Response [200]>
+2020-03-17 23:14:35,011 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 3066637048 with username arsh_virk_1.
+2020-03-17 23:14:36,901 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/3066637048/ returned response: <Response [200]>
+2020-03-17 23:14:36,902 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 3066637048 with username arsh_virk_1
+2020-03-17 23:14:37,640 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/4309082666/info/ returned response: <Response [200]>
+2020-03-17 23:14:37,640 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4309082666 with username yasminsybn.
+2020-03-17 23:14:41,522 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4309082666/ returned response: <Response [200]>
+2020-03-17 23:14:41,522 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4309082666 with username yasminsybn
+2020-03-17 23:14:42,340 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/5434211226/info/ returned response: <Response [200]>
+2020-03-17 23:14:42,340 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 5434211226 with username anterpreet__1313.
+2020-03-17 23:14:45,528 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/5434211226/ returned response: <Response [200]>
+2020-03-17 23:14:45,529 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 5434211226 with username anterpreet__1313
+2020-03-17 23:14:46,103 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/5456722689/info/ returned response: <Response [200]>
+2020-03-17 23:14:46,103 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 5456722689 with username x___asher____x.
+2020-03-17 23:14:48,088 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/5456722689/ returned response: <Response [200]>
+2020-03-17 23:14:48,088 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 5456722689 with username x___asher____x
+2020-03-17 23:14:48,728 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/2325177556/info/ returned response: <Response [200]>
+2020-03-17 23:14:48,728 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 2325177556 with username __742617000027__.
+2020-03-17 23:14:51,610 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/2325177556/ returned response: <Response [200]>
+2020-03-17 23:14:51,610 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 2325177556 with username __742617000027__
+2020-03-17 23:14:52,248 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/4087635785/info/ returned response: <Response [200]>
+2020-03-17 23:14:52,248 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4087635785 with username parth_astrophile.
+2020-03-17 23:14:54,239 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4087635785/ returned response: <Response [200]>
+2020-03-17 23:14:54,239 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4087635785 with username parth_astrophile
+2020-03-17 23:14:55,128 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/1363170852/info/ returned response: <Response [200]>
+2020-03-17 23:14:55,128 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 1363170852 with username the_sajan_grover.
+2020-03-17 23:14:59,371 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/1363170852/ returned response: <Response [200]>
+2020-03-17 23:14:59,371 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 1363170852 with username the_sajan_grover
+2020-03-17 23:15:00,249 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/4248193377/info/ returned response: <Response [200]>
+2020-03-17 23:15:00,249 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4248193377 with username ifanz09.
+2020-03-17 23:15:04,503 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4248193377/ returned response: <Response [200]>
+2020-03-17 23:15:04,503 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4248193377 with username ifanz09
+2020-03-17 23:15:05,198 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/732231502/info/ returned response: <Response [200]>
+2020-03-17 23:15:05,198 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 732231502 with username careyesj.
+2020-03-17 23:15:08,888 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/732231502/ returned response: <Response [200]>
+2020-03-17 23:15:08,888 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 732231502 with username careyesj
+2020-03-17 23:15:09,848 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/1779346856/info/ returned response: <Response [200]>
+2020-03-17 23:15:09,848 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 1779346856 with username mrr_whoever.
+2020-03-17 23:15:11,768 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/1779346856/ returned response: <Response [200]>
+2020-03-17 23:15:11,768 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 1779346856 with username mrr_whoever
+2020-03-17 23:15:12,409 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/4227646362/info/ returned response: <Response [200]>
+2020-03-17 23:15:12,409 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 4227646362 with username cristina.chioreanu.
+2020-03-17 23:15:16,887 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/4227646362/ returned response: <Response [200]>
+2020-03-17 23:15:16,887 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 4227646362 with username cristina.chioreanu
+2020-03-17 23:15:17,858 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/2008456874/info/ returned response: <Response [200]>
+2020-03-17 23:15:17,858 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 2008456874 with username shadesofcaroline.
+2020-03-17 23:15:21,689 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/2008456874/ returned response: <Response [200]>
+2020-03-17 23:15:21,689 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 2008456874 with username shadesofcaroline
+2020-03-17 23:15:22,649 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/1682918206/info/ returned response: <Response [200]>
+2020-03-17 23:15:22,649 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 1682918206 with username lemonna__.
+2020-03-17 23:15:25,402 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/1682918206/ returned response: <Response [200]>
+2020-03-17 23:15:25,402 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 1682918206 with username lemonna__
+2020-03-17 23:15:26,168 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/1209955015/info/ returned response: <Response [200]>
+2020-03-17 23:15:26,168 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 1209955015 with username aashu_zain.
+2020-03-17 23:15:27,832 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/1209955015/ returned response: <Response [200]>
+2020-03-17 23:15:27,832 - instabot version: 0.116.0 (bot_unfollow) - INFO - Unfollowed `user_id` 1209955015 with username aashu_zain
+2020-03-17 23:15:28,621 - instabot version: 0.116.0 (api) - DEBUG - GET to endpoint: users/2869213086/info/ returned response: <Response [200]>
+2020-03-17 23:15:28,621 - instabot version: 0.116.0 (bot_unfollow) - INFO - Going to unfollow `user_id` 2869213086 with username niks.tomar.
+2020-03-17 23:15:31,158 - instabot version: 0.116.0 (api) - DEBUG - POST to endpoint: friendships/destroy/2869213086/ returned response: <Response [400]>
+2020-03-17 23:15:31,158 - instabot version: 0.116.0 (api) - DEBUG - Responsecode indicates error; response content: b'{"message": "feedback_required", "spam": true, "feedback_title": "Action Blocked", "feedback_message": "This action was blocked. Please try again later. We restrict certain content and actions to protect our community. Tell us if you think we made a mistake.", "feedback_url": "repute/report_problem/instagram_unfollow/", "feedback_appeal_label": "Tell us", "feedback_ignore_label": "OK", "feedback_action": "report_problem", "status": "fail"}'
+2020-03-17 23:15:31,158 - instabot version: 0.116.0 (api) - ERROR - Request returns 400 error!
+2020-03-17 23:15:31,159 - instabot version: 0.116.0 (api) - ERROR - ATTENTION!: `feedback_required`b'This action was blocked. Please try again later. We restrict certain content and actions to protect our community. Tell us if you think we made a mistake.'
+2020-03-17 23:15:31,159 - instabot version: 0.116.0 (bot_unfollow) - ERROR - `Unfollow` action has been BLOCKED...!!!
+2020-03-17 23:15:31,159 - instabot version: 0.116.0 (bot_unfollow) - INFO - `Unfollow` action is going to sleep                         for 1008 seconds.
